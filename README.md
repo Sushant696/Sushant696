@@ -54,6 +54,7 @@
 </div>
 <img align='left' src="https://komarev.com/ghpvc/?username=sushant696&&style=flat-square"/>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sushant696&theme=tokyonight&hide_border=true&border_radius=5.8&card_width=512" alt="GitHub Streak" /></a>
 ##
 <h3>  
 Github stats 
