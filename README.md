@@ -58,7 +58,6 @@
 <h3>  
 Github stats 
 </h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sushant696&theme=tokyonight&hide_border=true&border_radius=5.8&card_width=512" alt="GitHub Streak" /></a>
 
 ![sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant696&rank_icon=percentile&theme=tokyonight)
 
