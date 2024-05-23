@@ -60,6 +60,5 @@
 Github stats 
 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant696&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant696&rank_icon=percentile&theme=tokyonight)
 
